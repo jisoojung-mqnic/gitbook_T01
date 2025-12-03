@@ -22,7 +22,7 @@ Cloud Radar는 로그인에 필요한 세션 키를 쿠키에 저장하기 때�
 
 1. 우측 상단 제어버튼을 클릭하여 설정으로 이동합니다.
 
-<figure><img src=".gitbook/assets/titan 연계현황_240419.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/titan 연계현황_240419 (1).png" alt=""><figcaption></figcaption></figure>
 
 2. 개인 정보 보호 및 보안 탭으로 이동하여 **서드 파티 쿠키** 탭을 클릭합니다.
 3. "**서드 파티 쿠키 허용**" 으로 설정을 변경합니다.
@@ -33,5 +33,11 @@ Cloud Radar는 로그인에 필요한 세션 키를 쿠키에 저장하기 때�
 
 1. 먼저 [MFA 설정 가이드](/broken/pages/ZBEIpNdIdfcwR23Tp2HT)로 이동하여 MFA를 설정합니다.&#x20;
 2. MFA 설정을 마치면, 다음 로그인부터는 아래와 같은 MFA 입력 화면이 나타납니다.
+
+
+
+<figure><img src=".gitbook/assets/titan 연계현황_240419.png" alt=""><figcaption></figcaption></figure>
+
+수정 테스트입니다.
 
 &#x20;
